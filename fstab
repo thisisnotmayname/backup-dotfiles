@@ -1,0 +1,4 @@
+UUID=dca05f3a-f199-45db-ba4a-7f375a7e6588 / ext4 defaults,noatime,discard  0 1
+UUID=4da1cc5f-8e98-476d-b58e-bf2a401064eb none swap sw 0 0
+UUID=5e7c5102-2399-415c-aa90-0068208738ce /home/gk/ssd ext4 defaults,noatime,discard 0 2
+tmpfs /tmp tmpfs defaults,nosuid,nodev 0 0
