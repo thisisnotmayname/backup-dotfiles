@@ -6,34 +6,33 @@
 *background: #000000
 !!*background: rgba(0, 0, .7)
 !!black
-*color0: #1b1918
-*color8: #766e6b
+*color0: #073642
+*color8: #002b36
 !!red
-*color1: #000000
-*color9: #000000
+*color1: #dc322f
+*color9: #eb4b16
 !!green
-*color2: #5ab738
-*color10: #5ab738
+*color2:  #859900
+*color10: #586e75
 !!yellow
-*color3: #d5911a
-*color11: #d5911a
+*color3:  #b58900
+*color11: #657b83
 !!blue
-*color4: #407ee7
-*color12: #407ee7
+*color4:  #268bd2
+*color12: #839496
 !!magenta
-*color5: #6666ea nano an
-*color13: #6666ea
+*color5:  #d33682 
+*color13: #6c71c4
 !!cyan
-*color6: #00ad9c
-*color14: #00ad9c
+*color6:  #2aa198
+*color14: #93a1a1
 !!white
-*color7: #a8a19f
-*color15: #f1efee
+*color7:  #eee8d5
+*color15: #fdf6e3
 
 URxvt.intensityStyles: 	false
 URxvt.background:	#000000
 URxvt.depth: 	  	32
 URvt.cursorColor:	white
-URxvt.font:		 xft:DejaVuSansMono:size=9
+URxvt.font:		 xft:DejaVuSansMono:size=10
 URxvt.scrollBar:	 false
-
